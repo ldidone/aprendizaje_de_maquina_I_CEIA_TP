@@ -37,9 +37,9 @@ Repositorio de código para el TP Integrador del curso de aprendizaje de máquin
 
 ----------------------------------------------------------------------------------------------
 > Alumnos:
-- Emmanuel Cardozo
-- Carlos Pallares
-- Lucas Didone
+> - Emmanuel Cardozo
+> - Carlos Pallares
+> - Lucas Didone
 
 -------------------------------------------------------------------------------------------
 > ### Citation
