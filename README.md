@@ -31,7 +31,7 @@ Repositorio de código para el TP Integrador del curso de aprendizaje de máquin
       "frequency": 70
     }'
 	
-# Web Application:
+# Aplicación WEB:
 
 - Podrá interactuar con el modelo obtenido haciendo uso de la aplicación web haciendo click [aquí](https://ldidone.github.io/).
 
