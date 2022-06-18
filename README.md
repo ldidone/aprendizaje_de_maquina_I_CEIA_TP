@@ -35,6 +35,8 @@ Repositorio de código para el TP Integrador del curso de aprendizaje de máquin
 
 - Podrá interactuar con el modelo obtenido haciendo uso de la aplicación web haciendo click [aquí](https://ldidone.github.io/).
 
+![image](https://user-images.githubusercontent.com/26725551/174445554-a173c15a-f217-4165-86c2-a8eed260df48.png)
+
 ----------------------------------------------------------------------------------------------
 > Alumnos:
 > - Emmanuel Cardozo
